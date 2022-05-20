@@ -1,8 +1,10 @@
 # NGINX REGEX TESTER FOR REWRITE RULES
 
-This source code run an application on the browser to test regex patterns that may be useful for the rewrite rules, building a docker conteiner with Nginx.
+This source code run an application on the browser to test regex patterns that may be useful for rewrite rules, building a docker conteiner with Nginx.
 
-You don't need previous docker knowledge to use this application, but you need to install docker on your machine.
+You don't need previous docker knowledge to use this application, but you need to install docker and docker compose on your machine.
+
+This only runs in Linux OS.
 
 ### Setup
 
@@ -37,3 +39,5 @@ To be included...
  * https://nginx.org/en/docs/http/ngx_http_rewrite_module.html
  * https://www.thegeekstuff.com/2017/08/nginx-rewrite-examples/
  * https://linuxhint.com/url_rewriting/
+ 
+ #### Feel free to contribute with this repo.
