@@ -24,7 +24,7 @@ Open the terminal and go to the path where is this source code and run the comma
 
 The `--verbose` option is usefull to check if any point of the application start appears any error.
 
-If in the first run the application run without error, you could start the application with this command `docker compose up -d`, again, depending on the docker compose package the commando will be docker-compose up -d`.
+If in the first run the application run without error, you could start the application with this command `docker compose up -d`, again, depending on the docker compose package the command will be docker-compose up -d`.
 
 ### Accessing the Regex Tester
 
